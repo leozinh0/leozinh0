@@ -1,6 +1,6 @@
 ##  Sobre Mim 🚀
 
-Estou cursando o terceiro semestre de Análise e desenvolvimento de sistemas pela pontifícia universidade católica de Goiás. Iniciante na programação e apaixonado na linguagem Java e Flutter.
+Sou formado em Análise e desenvolvimento de sistemas pela pontifícia universidade católica de Goiás. Apaixonado por programação.
  
  <a href="https://github.com/leozinh0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leozinh0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
